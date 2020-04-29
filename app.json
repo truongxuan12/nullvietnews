@@ -6,8 +6,8 @@
     "facebook",
     "canvas"
   ],
-  "website": "https://lerni.dev",
-  "repository": "https://github.com/namttdh/lerni-fb-bot-news",
+  "website": "https://nullviet.com",
+  "repository": "https://github.com/truongxuan12/nullvietnews",
   "success_url": "/welcome",
   "env": {
     "ACCESS_TOKEN": {
