@@ -6,7 +6,7 @@
     "facebook",
     "canvas"
   ],
-  "website": "https://nullviet.com",
+  "website": "https://lerni.dev",
   "repository": "https://github.com/truongxuan12/nullvietnews",
   "success_url": "/welcome",
   "env": {
